@@ -13,6 +13,5 @@ The mini-projects include:
 4. Sentiment Analysis for Yelp reviews
 5. CNN classifier from scratch for MNIST Digit Recognizer
 6. Tuning a random forest classifier for the *Spaceship Titanic* dataset
-7. ???
+7. Collaborative Filtering on Jester *Jokes* dataset
 8. ???
-9. ???
