@@ -11,8 +11,8 @@ The mini-projects include:
 2. Birds of Prey Classifier deployed to HuggingFace spaces
 3. Gradient Descent from scratch
 4. Sentiment Analysis for Yelp reviews
-5. Neural Net from scratch for MNIST Digit Recognizer
-6. ???
+5. CNN classifier from scratch for MNIST Digit Recognizer
+6. Tuning a random forest classifier for the *Spaceship Titanic* dataset
 7. ???
 8. ???
 9. ???
