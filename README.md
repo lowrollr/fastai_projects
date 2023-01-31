@@ -14,4 +14,4 @@ The mini-projects include:
 5. CNN classifier from scratch for MNIST Digit Recognizer
 6. Tuning a random forest classifier for the *Spaceship Titanic* dataset
 7. Collaborative Filtering on Jester *Jokes* dataset
-8. ???
+8. CNN Dropout + Pooling Layers to improve MNIST Digit Recognizer Performance
